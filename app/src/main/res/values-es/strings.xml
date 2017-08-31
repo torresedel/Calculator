@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">AndroidViewsAndLayouts</string>
+    <string name="name">Foca Cantante</string>
+    <string name="Hello">Hola</string>
+
+
+</resources>
